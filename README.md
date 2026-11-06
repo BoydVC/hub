@@ -1,6 +1,6 @@
 # TokenMax Hub
 
-**One launch screen for everything TokenMax built on Oct 7, 2026, plus a one-tap launcher for every Grok Bot in Boyd's fleet.**
+**One launch screen for everything TokenMax built on Oct 7, 2026, plus a one-tap launcher for every Grok Bot in Alex's fleet.**
 
 Live at **http://127.0.0.1:4646** on the box (`./run.sh` to start, `./stop.sh` to stop). The offline version is
 `/workspace/tokenmax/TokenMax-Oct7-build.zip`: unzip it and open `TokenMax-Oct7-build/index.html`.
@@ -57,6 +57,6 @@ hub/
 
 ---
 ## Repo notes
-- **Built:** Oct 7, 2026, by TokenMax (Boyd's Grok Bot) on the Grok Bot box.
+- **Built:** Oct 7, 2026, by TokenMax (Alex's Grok Bot) on the Grok Bot box.
 - **Run:** `./run.sh` (then open the localhost URL it prints).
 - Imported from `/workspace/tokenmax/hub` on Oct 23, 2026. node_modules, virtualenvs, logs and files over 20 MB were left out.
